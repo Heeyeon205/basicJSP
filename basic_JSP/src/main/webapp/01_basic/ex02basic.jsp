@@ -34,9 +34,7 @@
 	[2] 표현식(expression) 태그 <%= %> : 결과 값 출력 , 변수 값 출력
 	 ==> out.println() => string 으로 결과값 줌 
 	[3] 스크립트릿(scriptlet) 태그 <% %> : 그냥 자바 부분 
-	
 	[4] 선언자(declaration) 태그 <%! %> : 사용하지 않음  
-	
  --%>
 
 <h1> ex02.basic.jsp</h1>
