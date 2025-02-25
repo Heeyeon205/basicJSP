@@ -25,7 +25,7 @@
 
 --%>
 
-<form action="./ex04form02.jsp" method="post">
+<form action="./ex04form02.jsp" method="POST">
 이름 : <input type="text" name="myName" id="name" /> <br>
 나이 : <input type="number" name="myAge" id="age" /> <br>
 테스트1 <input type="radio" name="radio" value="테스트1"/>
